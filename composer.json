@@ -1,0 +1,17 @@
+{
+    "name": "root/phptdd",
+    "authors": [
+        {
+            "name": "Raven Cole",
+            "email": "ravenscole@gmail.com"
+        }
+    ],
+    "require": {
+        "phpspec/phpspec": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
